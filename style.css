@@ -20,20 +20,24 @@ body {
 @media (max-width:768px) {
 .aaa { text-align: center;
 }
+
 }
 .centered-main-page-element {
     display: block;
     width: 500px;
     margin: 0 auto 0;
 }
+
 .task {
     width: 56%;
     display: inline-block;
-    flex-grow: 1
+    flex-grow: 1;
 }
+
 .task-row-wrapper {
     display: flex;
 }
+
 ul {
     margin:0;
     padding: 0px;
