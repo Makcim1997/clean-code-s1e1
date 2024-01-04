@@ -69,7 +69,7 @@ body {
 }
 
 .list-tasks {
-    margin:0;
+    margin: 0;
     padding: 0;
 }
 
@@ -112,18 +112,18 @@ body {
 
 .list-tasks__task
 .input-task {
-    display:none;
+    display: none;
 }
 
 .list-tasks__task_edit-mode
 .input-task {
-    display:inline-block;
-    width:224px;
+    display: inline-block;
+    width: 224px;
 }
 
 .list-tasks__task_edit-mode
 .list-tasks__name-task {
-    display:none;
+    display: none;
 }
 
 @media (max-width:768px) {
